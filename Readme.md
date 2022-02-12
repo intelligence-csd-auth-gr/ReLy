@@ -7,4 +7,5 @@ The purpose of citation indexes and metrics is intended to be a measure for scie
 This repository includes:
 
 - The [journal_stats.csv](Journal%20Stats/journal_stats.csv) provides the full list of journals (3886) with their average semantic similarity and ReLy score as described in the paper
-- The [publication_stats.csv](Publication%20Stats/) provides the full list of publications (3959546) considered in this study with their average semantic similarity between references and ReLy score as described in the paper
+- The [publication_stats.csv](Publication%20Stats/publication_stats.csv) provides the full list of publications (3959546) considered in this study with their average semantic similarity between references and ReLy score as described in the paper
+- The [categories_stats.csv](Journal%20Stats/categories_stats.csv) provides the same stats as journal_stats.csv but grouped by categories as defined by [Scimago Journal & Country Rank](https://www.scimagojr.com/)
